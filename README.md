@@ -10,5 +10,5 @@
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Simoneeeeeeee&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Simoneeeeeeee" /> </p>
 
-</p>
-<a href="https://discord.gg/casadev" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+<p align="center">
+<a href="https://discord.gg/casadev" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></p>
