@@ -8,3 +8,4 @@
 
 <img src="https://img.shields.io/badge/dynamic/json?&label=Profile-Forks&color=ff8000&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Simoneeeeeeee" alt="Profile Forks">
 </p>
+<a href="https://discord.gg/casadev" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
