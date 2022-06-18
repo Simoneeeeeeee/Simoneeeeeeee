@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Simoneeeeeeee&label=Profile%20Views&color=ff8000&style=flat&label=Profile-Views" alt="Profile Views">
 
-<img src="https://img.shields.io/badge/dynamic/json?&label=Profile-Stars&color=ff8000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Simoneeeeeee" alt="Profile Stars">
+<img src="https://img.shields.io/badge/dynamic/json?&label=Profile-Stars&color=ff8000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Simoneeeeeeee" alt="Profile Stars">
 
 <img src="https://img.shields.io/badge/dynamic/json?&label=Profile-Forks&color=ff8000&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Simoneeeeeeee" alt="Profile Forks">
   
