@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/561607341607223317/987680956867563560/simone.png" width="100"/>
+  <img src="https://cdn.discordapp.com/attachments/561607341607223317/987681144050974801/simone-removebg-preview.png" width="100"/>
 </div>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Simoneeeeeeee&label=Profile%20Views&color=ff8000&style=flat&label=Profile-Views" alt="Profile Views">
