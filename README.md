@@ -13,7 +13,7 @@
 
 <center>
   <a>
-    <img src="https://discord.c99.nl/widget/theme-1/693088765333471284.png" style='padding: 5px'>
+    <img src="https://discord.c99.nl/widget/theme-1/543723335616430101.png" style='padding: 5px'>
   </a>
 </center>
 
