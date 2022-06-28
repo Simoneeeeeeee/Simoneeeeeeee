@@ -12,5 +12,3 @@
 <p align=center><img src="https://discord.c99.nl/widget/theme-1/543723335616430101.png" style='padding: 2px'></p>  
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Simoneeeeeeee&count_private=false&hide=procfile&theme=dark&border_color=000000&cache_seconds=100&layout=compact&langs_count=100&custom_title=Coding Languages&title_color=ff8000" alt="Simoneeeeeeee" /></p>
-
-<p align=center>Wonder why i got so many Profile Views? Then Check this <a href="https://github.com/Simoneeeeeeee/GitHub-View-Botter">GitHub-View-Botter<a/>
