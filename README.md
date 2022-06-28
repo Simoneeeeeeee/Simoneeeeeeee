@@ -2,6 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/561607341607223317/987681144050974801/simone-removebg-preview.png" width="100"/>
 </div>
 
+<!DOCTYPE html>
 <html lang="de">
   <head>
     <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
