@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/561607341607223317/987681144050974801/simone-removebg-preview.png" width="100"/>
 </div>
 
-<p align="center">Hey! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </p>
+<p align="center">Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </p>
 
 <p align="center">
 <a href="https://github.com/simoneeeeeeee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoneeeeeeee&langs_count=100&title_color=FFA500&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
