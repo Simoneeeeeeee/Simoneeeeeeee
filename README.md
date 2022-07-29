@@ -3,5 +3,5 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/simoneeeeeeee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoneeeeeeee&langs_count=10&title_color=FFA500&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/simoneeeeeeee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoneeeeeeee&langs_count=100&title_color=FFA500&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="http://www.github.com/simoneeeeeeee"><img src="https://activity-graph.herokuapp.com/graph?username=simoneeeeeeee&bg_color=1c1917&color=FFA500&line=0891b2&point=000000&area_color=FFA500&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
