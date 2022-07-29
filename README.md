@@ -1,5 +1,8 @@
 <div id="header" align="center">
   <img src="https://cdn.discordapp.com/attachments/561607341607223317/987681144050974801/simone-removebg-preview.png" width="100"/>
 </div>
-      
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Simoneeeeeeee&count_private=True&hide=procfile&theme=dark&border_color=000000&cache_seconds=100&layout=compact&langs_count=100&custom_title=Coding Languages&title_color=ff8000" alt="Simoneeeeeeee" /></p>
+
+
+<a href="https://github.com/simoneeeeeeee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoneeeeeeee&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/simoneeeeeeee"><img src="https://activity-graph.herokuapp.com/graph?username=simoneeeeeeee&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
