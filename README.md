@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/561607341607223317/987681144050974801/simone-removebg-preview.png" width="100"/>
+  <img src="https://images-ext-1.discordapp.net/external/o2AjqzPzzPEOKoOG9CA6DFagzBZoiQvzB-6iMaeEeWA/%3Fv%3D4/https/avatars.githubusercontent.com/u/100680246?format=webp" width="100"/>
 </div>
 <p align="center">
 <a href="https://discord.gg/ycZDpat7dB" target="blank">
