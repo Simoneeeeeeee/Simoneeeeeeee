@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <a href="https://simoneeeeeeee.github.io/"><img src="https://images-ext-1.discordapp.net/external/o2AjqzPzzPEOKoOG9CA6DFagzBZoiQvzB-6iMaeEeWA/%3Fv%3D4/https/avatars.githubusercontent.com/u/100680246?format=webp" width="100"/></a>
-  <h1>Simoneeeeeeee</h1>
+  <h1>Simone</h1>
 </div>
 <p align="center">
 <a href="https://discord.gg/ycZDpat7dB" target="blank">
